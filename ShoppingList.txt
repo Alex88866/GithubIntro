@@ -5,3 +5,4 @@ bananas
 peaches
 watermellon
 cherries
+cereal
